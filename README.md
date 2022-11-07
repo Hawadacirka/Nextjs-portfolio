@@ -21,7 +21,6 @@ It was inspired by DEV.to to use an 3d animation.
 ## Setup
 To run this project, install it locally using terminal:
 
-```
+`
 https://github.com/Hawadacirka/Nextjs-portfolio.git
-
-```
+`
