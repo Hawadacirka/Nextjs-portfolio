@@ -13,7 +13,7 @@
 
 
 ## General info
-This portfolio is built with next.js and tailwind. I want to upgrade it with other frameworks that I learnt from Youtube: Tailwind/next.js tutorial. 
+This portfolio is built with next.js and tailwind. I want to change my portfolio, it is upgrade with new frameworks that I learnt from Youtube: Tailwind/next.js tutorial. 
 
 ## Features
 It was inspired by DEV.to to use an 3d animation.
